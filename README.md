@@ -2,7 +2,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>SOC Lab</b>
-  - [Building Home SOC Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Building Home SOC Lab](https://github.com/J-DONDA/BuildingHomeSOCLab)
 - <b>SQL Query</b>
   - [SQL Query Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Python</b>
