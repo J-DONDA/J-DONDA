@@ -4,7 +4,7 @@
 - <b>SOC Lab</b>
   - [Building Home SOC Lab](https://github.com/J-DONDA/BuildingHomeSOCLab)
 - <b>SQL Query</b>
-  - [SQL Query Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [SQL Query Lab](https://github.com/J-DONDA/SQL_QueryLab)
 - <b>Python</b>
   - [Building an Algorithm](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Linux</b>
