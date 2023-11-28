@@ -6,7 +6,7 @@
 - <b>SQL Query</b>
   - [SQL Query Lab](https://github.com/J-DONDA/SQL_QueryLab)
 - <b>Python</b>
-  - [Building an Algorithm](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Building an Algorithm to Update a File](https://github.com/J-DONDA/Python_BuildingAnAlgorithm)
 - <b>Linux</b>
   - [Adjusting File Permissions](https://github.com/joshmadakor1/Algorithms-Practice)
 
