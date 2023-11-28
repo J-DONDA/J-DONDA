@@ -8,7 +8,7 @@
 - <b>Python</b>
   - [Building an Algorithm to Update a File](https://github.com/J-DONDA/Python_BuildingAnAlgorithm)
 - <b>Linux</b>
-  - [Adjusting File Permissions](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Adjusting File Permissions](https://github.com/J-DONDA/Linux_AdjustingFilePermissions)
 
 <h2> 🤳 Connect with me:</h2>
 
