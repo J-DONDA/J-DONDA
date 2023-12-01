@@ -9,6 +9,11 @@
   - [Building an Algorithm to Update a File](https://github.com/J-DONDA/Python_BuildingAnAlgorithm)
 - <b>Linux</b>
   - [Adjusting File Permissions](https://github.com/J-DONDA/Linux_AdjustingFilePermissions)
+ 
+<h2>👨‍💻 Cybersecurity Certifications:</h2>
+
+- <b>Google Cybersecurity Professional Certificate (Completed 11/23)</b>
+  - [Google Cybersecurity Professional](https://www.credly.com/badges/c9a474c1-9710-4b0e-8553-01c140a17a22/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 
